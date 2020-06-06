@@ -2,6 +2,10 @@ package main
 
 import "fmt"
 
+struct student type{
+	name  string  
+	age int
+}
 func main(){
 	fmt.println("hello world")
 }
